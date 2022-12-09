@@ -3,3 +3,7 @@ brew services stop  mongodb-community
 
 222
 1234
+
+
+npm run server
+npm run client
